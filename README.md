@@ -1,2 +1,2 @@
 # Potatso
-Potatso 完善版
+Potatso 
